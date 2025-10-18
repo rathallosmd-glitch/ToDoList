@@ -52,6 +52,8 @@ export default function Login({ setUser }) {
             </button>
           </div>
         </form>
+
+        <a href="/cadastro">Cadastrar</a>
       </div>
     </>
   );
